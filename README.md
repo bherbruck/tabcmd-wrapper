@@ -20,7 +20,7 @@ import tabcmd
 
 sess = tabcmd.Session()
 
-sess.login('tabcmd_site',
+sess.login('tableau_site',
            'tableau_username',
            'tableau_password')
 
